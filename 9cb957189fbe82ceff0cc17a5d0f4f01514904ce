@@ -1,0 +1,10 @@
+svn-revision: 71
+svn-path: /
+svn-author: Skiedrake
+svn-date: 2010-08-29T18:04:02.061738Z
+svn-revprop: google:author='Skiedrake'
+changed-paths:
+   M /dev/icons/obj/food.dmi
+   M /dev/icons/obj/hydroponics.dmi
+   M /dev/icons/obj/items.dmi
+   M /dev/icons/obj/kitchen.dmi

@@ -1,0 +1,8 @@
+svn-revision: 16
+svn-path: /dev
+svn-author: andrewmontagne
+svn-date: 2010-06-23T19:40:47.315452Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/code/defines/obj/machinery.dm
+   M /dev/code/game/machinery/vending.dm

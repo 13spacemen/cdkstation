@@ -1,0 +1,12 @@
+svn-revision: 11
+svn-path: /
+svn-author: caiganmythfang
+svn-date: 2010-06-23T17:19:54.594981Z
+svn-revprop: google:author='caiganmythfang'
+changed-paths:
+   M /trunk/
+   M /trunk/data/
+   D /trunk/data/logs
+node-properties (as set in this revision):
+   /trunk: svn:ignore='goonstation.dmb\ngoonstation.dyn.rsc\ngoonstation.int\ngoonstation.lk\ngoonstation.rsc\ngoonstation.rsc.lk\n'
+   /trunk/data: svn:ignore='logs\nplayer_saves\n'

@@ -1,0 +1,9 @@
+svn-revision: 70
+svn-path: /dev
+svn-author: Skiedrake
+svn-date: 2010-08-11T21:43:57.306359Z
+svn-revprop: google:author='Skiedrake'
+changed-paths:
+   M /dev/code/defines/obj/machinery.dm
+   M /dev/icons/obj/vending.dmi
+   M /dev/maps/trunkmap.dmm

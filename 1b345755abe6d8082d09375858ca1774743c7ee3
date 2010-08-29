@@ -1,0 +1,14 @@
+svn-revision: 26
+svn-path: /dev
+svn-author: andrewmontagne
+svn-date: 2010-06-24T20:56:42.631710Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/cdkstation.dme
+   M /dev/code/WorkInProgress/Chemistry-Tools.dm
+   M /dev/code/defines/obj/food.dm
+   M /dev/code/defines/obj/machinery.dm
+   A /dev/code/defines/obj/seeds.dm
+   A /dev/code/game/machinery/hydroponics.dm
+   M /dev/icons/obj/hydroponics.dmi
+   A /dev/icons/obj/seeds.dmi

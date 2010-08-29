@@ -1,0 +1,14 @@
+svn-revision: 40
+svn-path: /
+svn-author: andrewmontagne
+svn-date: 2010-07-01T15:55:41.275027Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/code/defines/obj/machinery.dm
+   M /dev/code/game/jobs/access.dm
+   M /dev/code/game/jobs/jobprocs.dm
+   M /dev/icons/obj/kitchen.dmi
+   M /dev/maps/trunkmap.dmm
+   A /dev/sound/machines/blender.ogg
+node-properties (as set in this revision):
+   /dev/sound/machines/blender.ogg: svn:mime-type='application/octet-stream'

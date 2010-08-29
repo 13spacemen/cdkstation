@@ -1,0 +1,24 @@
+svn-revision: 31
+svn-path: /dev
+svn-author: andrewmontagne
+svn-date: 2010-06-26T19:42:38.441143Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/
+   M /dev/cdkstation.dme
+   M /dev/code/defines/obj/food.dm
+   M /dev/code/defines/obj/machinery.dm
+   M /dev/code/defines/obj/nutrient.dm
+   M /dev/code/defines/obj/seeds.dm
+   M /dev/code/defines/obj.dm
+   M /dev/code/game/jobs/access.dm
+   M /dev/code/game/jobs/jobprocs.dm
+   M /dev/code/game/jobs/jobs.dm
+   M /dev/code/game/machinery/hydroponics.dm
+   A /dev/code/game/machinery/seed_extractor.dm
+   M /dev/code/game/objects/devices/scanners.dm
+   M /dev/icons/obj/device.dmi
+   M /dev/icons/obj/janitor.dmi
+   M /dev/maps/trunkmap.dmm
+node-properties (as set in this revision):
+   /dev: svn:ignore='cdkstation.dmb\ncdkstation.dyn.rsc\ncdkstation.dyn.rsc.lk\ncdkstation.int\ncdkstation.lk\ncdkstation.rsc\ncdkstation.rsc.lk\ngoonstation.dmb\ngoonstation.dyn.rsc\ngoonstation.int\ngoonstation.lk\ngoonstation.rsc\ngoonstation.rsc.lk\n'

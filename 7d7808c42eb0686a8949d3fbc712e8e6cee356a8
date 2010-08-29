@@ -1,0 +1,9 @@
+svn-revision: 25
+svn-path: /
+svn-author: andrewmontagne
+svn-date: 2010-06-24T18:30:19.209043Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/cdkstation.dme
+   M /dev/code/defines/obj/machinery.dm
+   M /dev/maps/trunkmap.dmm

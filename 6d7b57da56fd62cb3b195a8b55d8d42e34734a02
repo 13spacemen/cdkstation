@@ -1,0 +1,9 @@
+svn-revision: 48
+svn-path: /dev
+svn-author: andrewmontagne
+svn-date: 2010-07-03T16:19:54.627044Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/icons/obj/food.dmi
+   M /dev/icons/obj/hydroponics.dmi
+   M /dev/maps/trunkmap.dmm

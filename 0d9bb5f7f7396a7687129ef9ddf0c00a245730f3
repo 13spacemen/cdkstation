@@ -1,0 +1,14 @@
+svn-revision: 47
+svn-path: /dev
+svn-author: andrewmontagne
+svn-date: 2010-07-03T01:55:59.688249Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/code/WorkInProgress/Chemistry-Tools.dm
+   M /dev/code/defines/obj/food.dm
+   M /dev/code/defines/obj/machinery.dm
+   M /dev/code/defines/obj/seeds.dm
+   M /dev/code/game/gamemodes/gameticker.dm
+   A /dev/code/game/machinery/blender.dm
+   M /dev/code/game/machinery/hydroponics.dm
+   M /dev/code/game/objects/closets/kitchen.dm

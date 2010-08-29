@@ -1,0 +1,11 @@
+svn-revision: 10
+svn-path: /
+svn-author: caiganmythfang
+svn-date: 2010-06-23T16:52:54.054754Z
+svn-revprop: google:author='caiganmythfang'
+changed-paths:
+   M /trunk/config/motd-auth.txt
+   M /trunk/config/motd-noauth.txt
+   M /trunk/data/goon.goon
+   M /trunk/icons/changelog.html
+   M /trunk/maps/trunkmap.dmm

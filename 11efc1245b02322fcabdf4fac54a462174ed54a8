@@ -1,0 +1,8 @@
+svn-revision: 34
+svn-path: /
+svn-author: andrewmontagne
+svn-date: 2010-06-27T03:13:53.166066Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/code/defines/obj/machinery.dm
+   M /dev/code/defines/obj/seeds.dm

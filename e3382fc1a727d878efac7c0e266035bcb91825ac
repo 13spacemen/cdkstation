@@ -1,0 +1,15 @@
+svn-revision: 1
+svn-path: /
+svn-author: 
+svn-date: 2010-06-22T00:23:12.654639Z
+svn-revprop: google:author='unknown'
+changed-paths:
+   A /branches/
+   A /tags/
+   A /trunk/
+   A /wiki/
+svn-r0-revprop: svn:date='2010-06-22T00:23:12.561960Z'
+svn-r0-revprop: svn:sync-from-url='http://spacestation13.googlecode.com/svn'
+svn-r0-revprop: svn:sync-from-uuid='357b38b0-5a3f-5fd9-a4fa-d7fe9fa7c177'
+svn-r0-revprop: svn:sync-last-merged-rev='73'
+svn-dump-uuid: 4fab4557-8c14-4839-957b-ec9407fb3bc6 (UUID of the svnsync mirror the dump was made from)

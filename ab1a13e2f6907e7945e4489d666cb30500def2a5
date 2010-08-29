@@ -1,0 +1,10 @@
+svn-revision: 27
+svn-path: /
+svn-author: andrewmontagne
+svn-date: 2010-06-24T22:20:26.932461Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/code/defines/obj/machinery.dm
+   M /dev/code/game/machinery/hydroponics.dm
+   M /dev/icons/obj/seeds.dmi
+   M /dev/maps/trunkmap.dmm

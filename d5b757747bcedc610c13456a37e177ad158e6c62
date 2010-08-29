@@ -1,0 +1,11 @@
+svn-revision: 17
+svn-path: /
+svn-author: andrewmontagne
+svn-date: 2010-06-23T20:10:17.479779Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/
+   A /dev/cdkstation.dme
+   D /dev/goonstation.dme
+node-properties (as set in this revision):
+   /dev: svn:ignore='cdkstation.dmb\ncdkstation.dyn.rsc\ncdkstation.int\ncdkstation.rsc\ngoonstation.dmb\ngoonstation.dyn.rsc\ngoonstation.int\ngoonstation.lk\ngoonstation.rsc\ngoonstation.rsc.lk\n'

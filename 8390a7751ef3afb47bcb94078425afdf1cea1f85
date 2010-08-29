@@ -1,0 +1,8 @@
+svn-revision: 9
+svn-path: /trunk
+svn-author: caiganmythfang
+svn-date: 2010-06-23T13:42:12.539688Z
+svn-revprop: google:author='caiganmythfang'
+changed-paths:
+   M /trunk/config/admins.txt
+   M /trunk/config/motd.txt

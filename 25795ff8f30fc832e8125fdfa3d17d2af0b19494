@@ -1,0 +1,7 @@
+svn-revision: 37
+svn-path: /
+svn-author: andrewmontagne
+svn-date: 2010-06-29T21:39:51.332532Z
+svn-revprop: google:author='andrewmontagne'
+changed-paths:
+   M /dev/code/game/machinery/hydroponics.dm
